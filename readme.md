@@ -1,4 +1,6 @@
-# Dockerfile that spins up Laravel with Svelte
+# Dockerfile that spins up Laravel
+
+remove the file in /src/.remove
 
 start docker
 ```
