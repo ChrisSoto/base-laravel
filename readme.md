@@ -1,6 +1,8 @@
-# Dockerfile that spins up Laravel
+# Dockerfile that spins up nginx, php, mysql for Laravel
 
 remove the file in /src/.remove
+
+add ssl certs to nginx/certs
 
 start docker
 ```
