@@ -35,3 +35,7 @@ run initial migration
 
 run any artisan commands
 ```docker-compose run --rm artisan make:model Post --migration```
+
+rename the root folder
+
+delete .git file and re-initialize
